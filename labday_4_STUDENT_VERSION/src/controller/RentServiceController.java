@@ -10,7 +10,7 @@ public class RentServiceController {
 		// TODO Auto-generated constructor stub
 	}
 
-	public RentService findByName2(String name) {
+	public RentService findByName(String name) {
 		// TODO Auto-generated method stub
 		return null;
 	}
